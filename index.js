@@ -4,7 +4,6 @@ let dimensions = {
 }
 let images = [
     "https://media.giphy.com/media/l2R0cE5EqO3QHiCoU/giphy.gif",
-    "https://media.giphy.com/media/Saavhnp9YYN7a/giphy.gif",
     "https://media.giphy.com/media/26xBRiIYbyjCzYMAU/giphy.gif",
     "https://media.giphy.com/media/l1AsHO8u4GHnD3DOg/giphy.gif",
     "https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif",
